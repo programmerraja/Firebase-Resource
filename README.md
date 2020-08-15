@@ -6,7 +6,7 @@ A collection of learning resource for firebase
 
 # Youtube Channel
 <a href="https://www.youtube.com/user/Firebase">Firebase(official)</a><br>
-<a href="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA">Firebase(official)</a>
+<a href="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA">Fireship</a>
 
 
 # what is firbase?
@@ -15,7 +15,7 @@ A collection of learning resource for firebase
     <h3>You Tube videos </h3>
     <li> <a href="https://www.youtube.com/watch?v=BXHQ5NxU2p8">What Is Firebase?</a></li>
    <li> <a href="https://www.youtube.com/watch?v=O17OWyx08Cg">Introducig firbase</a></li> 
-  <li> <a href="https://www.youtube.com/watch?v=Lz1R4QDbMJc">>What Is Firebase?</a></li>
+  <li> <a href="https://www.youtube.com/watch?v=Lz1R4QDbMJc">What Is Firebase?</a></li>
   </ol>
 
 # Realtime database 
