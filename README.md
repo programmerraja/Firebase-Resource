@@ -8,6 +8,8 @@ A collection of learning resource for firebase
 <a href="https://www.youtube.com/user/Firebase">Firebase(official)</a><br>
 <a href="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA">Fireship</a>
 
+# Official documents
+<a href="https://firebase.google.com/docs">Firebase docs</a><br>
 
 # what is firbase?
 
@@ -35,6 +37,12 @@ A collection of learning resource for firebase
     <h3>Firestore database rules<h3>
   
 # Firebase Authentication
+
+<ol>
+    <h3>You Tube videos playlist </h3>
+    <li> <a href="https://www.youtube.com/watch?v=8sGY55yxicA&list=PLl-K7zZEsYLnq6DvMtUJVDLe4w5wcTwUl">Firebase authentication playlist 1</a></li>
+   <li> <a href="https://www.youtube.com/watch?v=aN1LnNq4z54&list=PL4cUxeGkcC9jUPIes_B8vRjn1_GaplOPQ">Firebase authentication playlist 2</a></li>
+  </ol>
 
 # Firebase database design
 
